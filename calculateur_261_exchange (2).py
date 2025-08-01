@@ -55,7 +55,7 @@ else:
         st.info(f"💲 1 {cryptos[selected_crypto]['symbol']} = {prices[selected_crypto]['usd']} USD")
 
     # Définition des taux
-    taux_crypto_depot = 4900
+    taux_crypto_depot = 4820
     taux_crypto_retrait = 4250
     taux_fiat = 4750
     taux_fiat_retrait = 4300
